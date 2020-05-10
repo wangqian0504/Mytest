@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名 王倩
+#### 学历
+#### 学校
+#### 邮箱
+#### 地址
 
-You can use the [editor on GitHub](https://github.com/wangqian0504/Mytest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 项目经历
+1.
+2.
+3.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 学生工作
+2019.11-至今  上海交通大学生命科学技术学院研究生会 执行主席
+2018. 11-2019.11 上海交通大学生命科学技术学院研究生会 宣传部部长
+2018.09-至今 上海交通大学B1808092 班 班长
 
-### Markdown
+### 荣誉奖励
+1.2020.05 上海交通大学 优秀团干部
+2.2019.10 上海交通大学生命科学技术学院研究生会 优秀部长
+3.2018.10 上海交通大学 优秀团员
+4.2018.08 全国生命科学创新创业大赛 创新组全国一等奖
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangqian0504/Mytest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
