@@ -8,7 +8,7 @@
  
    </td>
    <td width="40%">
-    <img src="/微信图片_20200313221123.jpg" width="80%"> 
+    <img src="/微信图片_20200313221123.jpg" width="100%"> 
    </td>
   </tr>
 </table>
