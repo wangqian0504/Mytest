@@ -1,14 +1,14 @@
 <table border="0">
   <tr>
-   <td width="50%">
+   <td width="60%">
     <h1>姓名：王倩</h1>
     <p><b>学历：硕士研究生</b></p>
     <p><b>上海交通大学 生命科学技术学院</b></p>
     <p><b>邮箱：xxxx</b></p>
  
    </td>
-   <td width="50%">
-    <img src="/微信图片_20200313221123.jpg" width="100%"> 
+   <td width="40%">
+    <img src="/微信图片_20200313221123.jpg" width="80%"> 
    </td>
   </tr>
 </table>
